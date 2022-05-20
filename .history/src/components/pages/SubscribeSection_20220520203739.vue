@@ -47,7 +47,7 @@ name: "SubscribeSection"
 }
 h1{
     font-family: 'Roboto Slab', serif;
-    font-weight: 300;
+    font-weight: 00;
     color: #4A302C;
     margin-top: 40px;
 }

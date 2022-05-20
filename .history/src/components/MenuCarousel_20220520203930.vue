@@ -1,5 +1,5 @@
 <template>
-  <Carousel :itemsToShow="1" :autoplay="3200"  :wrapAround="true" :pauseAutoplayOnHover="true">
+  <Carousel :itemsToShow="1" :autoplay="3200"  :wrapAround="true" >
     <Slide key="1">
       <div class="carousel__item">
       <div class="menu-group">

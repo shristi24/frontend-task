@@ -1,5 +1,5 @@
 <template>
-  <Carousel :itemsToShow="1" :autoplay="2000" :wrapAround="true" :pauseAutoplayOnHover="true">
+  <Carousel :itemsToShow="1" :autoplay="2000" :wrapAround="true" pauseAutoplayOnHover>
     <Slide v-for="slide in 4" :key="slide">
       <div class="carousel__item">
         <div class="row">
