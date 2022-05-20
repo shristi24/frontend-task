@@ -6,7 +6,7 @@
       </div>
       <div class="footer-content">
         <p>Tridevi marg, Thamel Kathmandu, Nepal</p>
-        <a href="mailto:himalayanjava@gmail.com" style="text-decoration: none;"><p>info@himalyanjava.com</p></a>
+        <a href="mailtohimalayanjava@gmail.com" style="text-decoration: none;"><p>info@himalyanjava.com</p></a>
         <a href="tel:+977014422519" style="text-decoration: none;"><p>+977-[0]1-4422519</p></a>
        <p> <img class="icons" src="../../assets/SocialMediaIcon.png" alt="icons"></p>
       </div>
