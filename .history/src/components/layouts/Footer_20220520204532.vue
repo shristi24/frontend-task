@@ -6,8 +6,8 @@
       </div>
       <div class="footer-content">
         <p>Tridevi marg, Thamel Kathmandu, Nepal</p>
-        <a href="himalayanjava@gmail.com" style="text-decoration: none;"><p>info@himalyanjava.com</p></a>
-        <a href="tel:+977014422519" style="text-decoration: none;"><p>+977-[0]1-4422519</p></a>
+        <p>info@himalyanjava.com</p>
+        <a href=""><p>+977-[0]1-4422519</p></a>
        <p> <img class="icons" src="../../assets/SocialMediaIcon.png" alt="icons"></p>
       </div>
     </center>
@@ -29,8 +29,8 @@ name: 'Footer',
   width: 100%; */
   background: url(@/assets/footer_background.png) no-repeat;
   background-size: cover;
-  /* background-position: center;
-  background-color: #161616; */
+  background-position: center;
+  background-color: #161616;
 }
 .footer-logo{
   margin-top: 20px;

@@ -29,8 +29,8 @@ name: 'Footer',
   width: 100%; */
   background: url(@/assets/footer_background.png) no-repeat;
   background-size: cover;
-  /* background-position: center;
-  background-color: #161616; */
+  background-position: center;
+  background-color: #161616;
 }
 .footer-logo{
   margin-top: 20px;
@@ -46,8 +46,8 @@ p{
   margin-bottom: 10px;
 }
 .icons{
-  height: 25px;
-  width: 60px;
+  /* height: 25px;
+  width: 60px; */
   object-fit: contain;
 }
 </style>

@@ -219,7 +219,6 @@ export default defineComponent({
     width: 10rem;
     padding: 10px;
     margin: 30px 0;
-    float: left;
 }
 
 </style>

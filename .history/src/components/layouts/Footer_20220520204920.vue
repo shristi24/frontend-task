@@ -46,8 +46,8 @@ p{
   margin-bottom: 10px;
 }
 .icons{
-  height: 25px;
-  width: 60px;
+  /* height: 25px;
+  width: 60px; */
   object-fit: contain;
 }
 </style>
